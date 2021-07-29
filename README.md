@@ -5,7 +5,7 @@ The script was originally designed for use with Service Manager fields, but coul
 ## To use
 Using SharePoint designer, browse to the SharePoint list that the Nintex form uses. Edit the NewForm.aspx file and insert the script below `<asp:Content ContentPlaceHolderId="PlaceHolderMain" runat="server">`
 
-When browsing to the URL of the form, simply append `?WorkItemID=SR12345&analyst=joeblogs` after NewForm.aspx.
+When browsing to the URL of the form, simply append `?WorkItemID=SR12345&analyst=joebloggs` after NewForm.aspx.
 
 ## Additional information
 
