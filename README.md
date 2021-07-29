@@ -1,6 +1,6 @@
 # NintexURLParameterParser
 A script to be used with SharePoint Nintex forms to collect parameter values from the URL and set Work Item ID and Analyst field values in the form.
-The script was originally designed for use with Service Manager fields, but could easily be adapted for other puroses.
+The script was originally designed for use with Service Manager fields, but could easily be adapted for other purposes.
 
 ## To use
 Using SharePoint designer, browse to the SharePoint list that the Nintex form uses. Edit the NewForm.aspx file and insert the script below `<asp:Content ContentPlaceHolderId="PlaceHolderMain" runat="server">`
