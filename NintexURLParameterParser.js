@@ -1,5 +1,5 @@
 <script type="text/javascript">
-//A script to collect parameter values from the URL and set WorkItemID and Analyst field values in the form. Ben Gillion - 12/2019
+//A script to collect parameter values from the URL and set WorkItemID and Analyst field values in the form.
 
 //Wait for the form to load before firing the script. Load parameters and values from the URL.
 window.onload = function() {
